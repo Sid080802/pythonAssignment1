@@ -26,7 +26,6 @@ This repository contains solutions to six basic Python programming assignments. 
 
 ## How to Run:
  Clone the repository to your local machine:
-   ```bash
    git clone https://github.com/Sid080802/pythonAssignment1.git
 
    
